@@ -2,8 +2,8 @@
 <package >
   <metadata>
     <id>rte-light</id>
-    <version>0.5.1.2</version>
-    <authors>Batiste Bieler</authors>
+    <version>0.5.2</version>
+    <authors>dcowart</authors>
     <owners>dcowart</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>http://batiste.dosimple.ch/blog/posts/2007-09-11-1/rich-text-editor-jquery.html</projectUrl>
