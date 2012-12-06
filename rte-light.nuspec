@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>rte-light Riche Text Editor</id>
+    <id>rte-light</id>
     <version>0.5.1</version>
     <authors>Batiste Bieler</authors>
     <owners>dcowart</owners>
