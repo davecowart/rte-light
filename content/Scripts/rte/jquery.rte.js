@@ -13,7 +13,7 @@ if(typeof $.fn.rte === "undefined") {
 
     var defaults = {
         media_url: "/Content/rte/images/",
-        content_css_url: "rte.css",
+        content_css_url: "/Content/rte/rte.css",
         dot_net_button_class: null,
         max_height: 350
     };

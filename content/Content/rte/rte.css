@@ -23,6 +23,7 @@
     clear:both;
     height:200px;
     display:block;
+    background-color:#fff;
 }
 
 .rte-toolbar{ overflow:hidden; }
