@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>rte-light</id>
-    <version>0.5.1</version>
+    <version>0.5.1.1</version>
     <authors>Batiste Bieler</authors>
     <owners>dcowart</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
