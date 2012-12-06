@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>rte-light Riche Text Editor</id>
+    <version>0.5.1</version>
+    <authors>Batiste Bieler</authors>
+    <owners>dcowart</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://batiste.dosimple.ch/blog/posts/2007-09-11-1/rich-text-editor-jquery.html</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An unbloated Rich Text Editor for jQuery</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>WYSIWYG rich text editor jquery plugin</tags>
+    <dependencies>
+      <dependency id="jQuery" version="1.4.1" />
+    </dependencies>
+  </metadata>
+</package>
